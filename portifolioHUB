@@ -1,0 +1,10 @@
+/portfoliohub
+├── README.md
+├── /docs
+│   └── planejamento.pdf
+├── /src
+│   ├── index.html
+│   └── style.css
+├── /apresentacao
+│   └── video_link.txt
+└── .gitignore
