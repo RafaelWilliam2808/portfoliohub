@@ -62,9 +62,9 @@ portfoliohub/
 
 ## 🔗 Links Úteis
 
-- 🌐 [Repositório no GitHub](https://github.com/seu-usuario/portfoliohub)
-- 📄 [Documentação (Google Docs)](https://docs.google.com/document/d/EXEMPLO)
-- 📹 [Apresentação no YouTube](https://www.youtube.com/watch?v=SEU-LINK-AQUI)
+- 🌐 [Repositório no GitHub](https://github.com)
+- 📄 [Documentação (Google Docs)](https://docs.google.com/document/d/1QZOlacM3eJSAemcU4Lup70wohOpmfGJ5gsuDX_ZZF3o/edit?tab=t.0)
+- 📹 [Apresentação no YouTube](https://youtu.be/vmI7xx3oADU)
 
 ---
 
